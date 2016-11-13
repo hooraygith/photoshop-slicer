@@ -1,6 +1,6 @@
-# photoshop-slicer
+# Remove the 8192px limit on save for web in Photoshop CC
 
-Thanks to https://github.com/untallucas/photoshop-slices-exporter
+Reference to https://github.com/untallucas/photoshop-slices-exporter
 
 untallucas's script don't work in Photoshop CC.
 
